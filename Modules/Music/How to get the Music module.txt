@@ -1,9 +1,3 @@
-go to https://github.com/jagrosh/MusicBot/releases/latest
-
-select the jar file Example: JMusicBot-0.0.6.jar
-
-Move the file into the folder that stores this txt file
-
 Open the jar file with java NOT WINRAR OR ANY OTHER ARCHIVE APP
 
 It will so you don't have a config
