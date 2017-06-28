@@ -1,0 +1,28 @@
+go to https://github.com/jagrosh/MusicBot/releases/latest
+
+select the jar file Example: JMusicBot-0.0.6.jar
+
+Move the file into the folder that stores this txt file
+
+Open the jar file with java NOT WINRAR OR ANY OTHER ARCHIVE APP
+
+It will so you don't have a config
+
+Put in a bot token from https://discordapp.com/developers then 
+my apps create one and then 
+create a user
+
+By default the prefix is just mentioning the bot 
+example: @RainMaster-Music music-search Nocopyrightsounds
+
+To change the prefix go into the config.txt that was made by the jar
+then add a line that is prefix=YOURPREFIX
+
+Example:
+token=YOURTOKEN
+ownerid=YOURID
+prefix=/music-
+
+If you want to get your id then in discord go to User Settings then
+appearance then turn on developer mode go right click on your user
+then press "Copy ID"

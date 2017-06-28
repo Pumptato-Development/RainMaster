@@ -1,0 +1,19 @@
+Download and Install Git from https://git-scm.com/
+Download and Install Python 3.5.0 from https://www.python.org/downloads/release/python-350/
+
+Once you have both of those go into the the folder 
+where this file is stored then 
+right click and click "Git Bash Here"
+
+Next type in this command:
+git clone -b develop --single-branch https://github.com/Twentysix26/Red-DiscordBot.git Red-DiscordBot
+
+Then next go into the folder it creates and open start_launcher.bat
+
+For all bots to create one go to https://discordapp.com/developers 
+then go to My Apps then create a bot and then select create a bot user
+Don't use the secret or client id use the token for the token
+
+If it does not work then restart your computer and try again
+If it still does not work put a issue on
+https://github.com/Twentysix26/Red-DiscordBot
